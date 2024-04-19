@@ -1,0 +1,5 @@
+C:\Users\acer\Desktop\Research Material\University-Y2S2\Computer Organization and Architecture\Visual Studio\template\Debug\Project.exe
+C:\Users\acer\Desktop\Research Material\University-Y2S2\Computer Organization and Architecture\Visual Studio\Lab3\Debug\Project.exe
+C:\Users\acer\Desktop\Research Material\University-Y2S2\Computer Organization and Architecture\Visual Studio\Lab3 - Copy\Debug\Project.exe
+C:\Users\acer\Desktop\Research Material\University-Y2S2\Computer Organization and Architecture\Visual Studio\Project\Debug\Project.exe
+C:\Users\acer\Desktop\Research Material\University-Y1S2\Computer Organization and Architecture\Visual Studio\Project - 2.0\Debug\Project.exe
